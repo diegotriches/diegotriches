@@ -1,17 +1,18 @@
 <div align="center">
-<h1>Diego da Rosa Triches</h1>
+<h1>Diego Triches</h1>
 
+Estudante de ADS e focado em aprender e dominar **Desenvolvimento Web Full-Stack**
+Rio Grande do Sul, Brasil
 [![Meu Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-🚀-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white)](https://diegotriches.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
 </div>
+[![E-mail](https://img.shields.io/badge/Email-diego.rtriches%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:diego.rtriches@gmail.com)
 
 ---
 
 ### Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter.
 - 📐 **Bacharel em Engenharia Civil** (trazendo forte bagagem em lógica, processos e resolução de problemas para o mundo do software).
-- 💻 Atualmente focado em aprender e dominar **Desenvolvimento Web Full-Stack**.
 - 🛠️ Desenvolvendo projetos práticos para fortalecer conceitos de APIs RESTful, operações CRUD e fluxos de dados entre Frontend e Backend.
 - 🎯 Objetivo: Consolidar minha base teórica e prática para conquistar minha primeira oportunidade no mercado de tecnologia.
 
