@@ -1,8 +1,13 @@
-# Olá, meu nome é Diego! 👋
+<div align="center">
+<h1>Diego da Rosa Triches</h1>
 
 [![Meu Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-🚀-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white)](https://diegotriches.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
+</div>
 
-### 🚀 Sobre Mim
+---
+
+### Sobre Mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter.
 - 📐 **Bacharel em Engenharia Civil** (trazendo forte bagagem em lógica, processos e resolução de problemas para o mundo do software).
@@ -12,7 +17,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 Aqui estão as tecnologias que utilizo e venho estudando nos meus projetos diários:
 
@@ -40,19 +45,3 @@ Aqui estão as tecnologias que utilizo e venho estudando nos meus projetos diár
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux / WSL" />
 
 </div>
-
----
-
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=gotham" alt="Linguagens mais usadas" height="180em" />
-</p>
-
----
-
-### 🤝 Conecte-se Comigo
-
-Se quiser trocar uma ideia sobre desenvolvimento web ou acompanhar meus estudos, me encontre aqui:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
