@@ -3,9 +3,16 @@
 
 <p>Estudante de ADS e focado em aprender e dominar <strong>Desenvolvimento Web Full-Stack</strong></p>
 <p>Rio Grande do Sul, Brasil</p>
-[![Meu Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-🚀-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white)](https://diegotriches.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
-[![E-mail](https://img.shields.io/badge/Email-diego.rtriches%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:diego.rtriches@gmail.com)
+
+<a href="https://diegotriches.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20Meu%20Portfólio-🚀-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" alt="Meu Portfólio" />
+</a>
+<a href="https://linkedin.com/in/diego-triches" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:diego.rtriches@gmail.com">
+    <img src="https://img.shields.io/badge/Email-diego.rtriches%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+</a>
 </div>
 
 ---
