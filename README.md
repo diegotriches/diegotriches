@@ -1,12 +1,12 @@
 <div align="center">
 <h1>Diego Triches</h1>
 
-Estudante de ADS e focado em aprender e dominar **Desenvolvimento Web Full-Stack**
-Rio Grande do Sul, Brasil
+<p>Estudante de ADS e focado em aprender e dominar <strong>Desenvolvimento Web Full-Stack</strong></p>
+<p>Rio Grande do Sul, Brasil</p>
 [![Meu Portfólio](https://img.shields.io/badge/Acesse%20Meu%20Portfólio-🚀-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white)](https://diegotriches.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
-</div>
 [![E-mail](https://img.shields.io/badge/Email-diego.rtriches%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:diego.rtriches@gmail.com)
+</div>
 
 ---
 
