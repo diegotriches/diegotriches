@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Bem+Vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Hello%2C+I'm+Diego+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo soluções práticas, um projeto real de cada vez.
 
@@ -28,7 +28,13 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" height="165" /> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais usadas"
+    height="165"
+  />
+</p>
 
 ---
 
