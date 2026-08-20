@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Desenvolvedor+de+Sistemas;Foco+em+aplica%C3%A7%C3%B5es+web+e+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Bem+Vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo soluções práticas, um projeto real de cada vez.
 
@@ -26,43 +26,9 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 
 ---
 
-### 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>💰 Minhas Despesas</b>
-      <p>Gestão financeira pessoal em um único lugar.</p>
-      <sub>Next.js 14 · TailwindCSS · PostgreSQL</sub><br /><br />
-      <a href="https://myexpenses-app-ten.vercel.app/">🔗 Acessar</a> ·
-      <a href="https://github.com/diegotriches/myexpenses-app">💻 Código</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>✅ My Habits Tracker</b>
-      <p>Rastreamento de hábitos positivos e negativos.</p>
-      <sub>React · Expo · Supabase</sub><br /><br />
-      <a href="https://expo.dev/accounts/d.triches/projects/my-habits-tracker/builds">🔗 Acessar</a> ·
-      <a href="https://github.com/diegotriches/my-habits-tracker">💻 Código</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>🏢 Resident Manager</b>
-      <p>Controle e rateio de despesas condominiais.</p>
-      <sub>React · Express · Drizzle · Zod · SQLite</sub><br /><br />
-      🚧 Em desenvolvimento ·
-      <a href="https://github.com/diegotriches/ResidentManager">💻 Código</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Veja mais detalhes no <a href="https://diegotriches.github.io/portfolio/#portfolio">portfólio completo</a>.</sub></p>
-
----
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" height="165em" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" height="165" /> </p>
 
 ---
 
