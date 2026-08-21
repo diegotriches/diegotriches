@@ -13,6 +13,7 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 ---
 
 <table> <tr> <td width="65%" valign="middle">
+
 ### 🧠 Linguagens & Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
