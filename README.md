@@ -29,11 +29,7 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=github_dark&hide_border=true"
-    alt="Linguagens mais usadas"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=gotham" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
