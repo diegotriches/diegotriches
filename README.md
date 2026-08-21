@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Hello%2C+I'm+Diego+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3FA34D&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Diego+%F0%9F%91%8B;Hello%2C+i%27m+Diego+%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo soluções práticas, um projeto real de cada vez.
 
@@ -12,6 +12,7 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 
 ---
 
+<table> <tr> <td width="65%" valign="middle">
 ### 🧠 Linguagens & Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
@@ -24,13 +25,16 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
 
----
+</td>
+<td width="35%" align="center" valign="middle">
+  <img
+    src="./assets/computer-illustration.png"
+    alt="Ilustração de um computador"
+    width="300"
+  />
+</td>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotriches&layout=compact&theme=gotham" alt="Linguagens mais usadas" height="180em" />
-</p>
+</tr> </table>
 
 ---
 
