@@ -12,7 +12,7 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 
 ---
 
-<table> <tr> <td width="65%" valign="middle">
+<table border="0"> <tr> <td width="50%" valign="middle">
 
 ### 🧠 Linguagens & Frontend
 
@@ -27,7 +27,7 @@ Estudante de ADS na Uninter · Bacharel em Engenharia Civil · Construindo solu�
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
   <img
     src="./assets/computer-illustration.png"
     alt="Ilustração de um computador"
