@@ -20,7 +20,7 @@ Construo aplicações completas, do modelo de dados ao deploy, com TypeScript, R
 
 ### ✅ Uso com segurança
 
-[![Uso com segurança](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,html,css,git,github)](https://skillicons.dev)
+[![Uso com segurança](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,html,css,git,github&perline=5)](https://skillicons.dev)
 
 ### 📚 Usei nos projetos e estou aprofundando
 
