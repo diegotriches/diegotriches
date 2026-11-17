@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack | Engenheiro Civil**
 
-Construo aplicações completas, do modelo de dados ao deploy, com TypeScript, React, Next.js e PostgreSQL.
+Construo aplicações completas, do modelo de dados ao deploy, com TypeScript, React, Node.js e PostgreSQL.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-3fa34d?style=flat-square&logo=googlechrome&logoColor=white)](https://diegotriches.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-triches)
@@ -18,19 +18,15 @@ Construo aplicações completas, do modelo de dados ao deploy, com TypeScript, R
 
 <img src="./assets/computer-illustration.png" alt="Ilustração de um computador" align="right" width="400" />
 
-### 🧠 Frontend
+### ✅ Uso com segurança
 
-[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind)](https://skillicons.dev)
+[![Uso com segurança](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,html,css,git,github)](https://skillicons.dev)
 
-### ⚙️ Backend & Banco de Dados
+### 📚 Usei nos projetos e estou aprofundando
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,supabase)](https://skillicons.dev)
+[![Usei nos projetos](https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vitest,jest,githubactions)](https://skillicons.dev)
 
-### 🛠️ Qualidade & Ferramentas
-
-[![Ferramentas](https://skillicons.dev/icons?i=vitest,jest,githubactions,git,github,vscode)](https://skillicons.dev)
-
-<sub>Tecnologias que usei nos meus projetos. Também: Drizzle ORM, React Native e Expo.</sub>
+<sub>Também: Drizzle ORM, React Native e Expo.</sub>
 
 </p>
 
